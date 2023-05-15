@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\work78\bin\Debug\net6.0\work78.exe
+C:\Users\Administrator\Desktop\work78\bin\Debug\net6.0\work78.deps.json
+C:\Users\Administrator\Desktop\work78\bin\Debug\net6.0\work78.runtimeconfig.json
+C:\Users\Administrator\Desktop\work78\bin\Debug\net6.0\work78.dll
+C:\Users\Administrator\Desktop\work78\bin\Debug\net6.0\work78.pdb
+C:\Users\Administrator\Desktop\work78\obj\Debug\net6.0\work78.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\work78\obj\Debug\net6.0\work78.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\work78\obj\Debug\net6.0\work78.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\work78\obj\Debug\net6.0\work78.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\work78\obj\Debug\net6.0\work78.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\work78\obj\Debug\net6.0\work78.dll
+C:\Users\Administrator\Desktop\work78\obj\Debug\net6.0\refint\work78.dll
+C:\Users\Administrator\Desktop\work78\obj\Debug\net6.0\work78.pdb
+C:\Users\Administrator\Desktop\work78\obj\Debug\net6.0\work78.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\work78\obj\Debug\net6.0\ref\work78.dll
